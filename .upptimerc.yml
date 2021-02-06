@@ -4,28 +4,22 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
+  - name: Vultr-MCS1
+    url: https://mcs1.zo3.red
+  - name: Vultr-MCS2
+    url: https://mcs2.zo3.red
   - name: Test for HEAD
     method: HEAD
     url: https://www.google.com
-  - name: Secret Site
-    url: $SECRET_SITE
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  # cname: uptime.zo3.red
+   cname: zo3.red
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: "**レインボークエスト** で使用しているサーバの稼働時間モニターとステータスページであり、GitHubを利用しています。"
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status

@@ -4,19 +4,19 @@
     "url": "https://mcs1.zo3.red",
     "icon": "https://favicons.githubusercontent.com/mcs1.zo3.red",
     "slug": "vultr-mcs-1",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 513,
-    "timeDay": 513,
-    "timeWeek": 513,
-    "timeMonth": 513,
-    "timeYear": 513,
+    "status": "up",
+    "uptime": "97.11%",
+    "uptimeDay": "97.11%",
+    "uptimeWeek": "97.11%",
+    "uptimeMonth": "97.11%",
+    "uptimeYear": "97.11%",
+    "time": 497,
+    "timeDay": 497,
+    "timeWeek": 497,
+    "timeMonth": 497,
+    "timeYear": 497,
     "dailyMinutesDown": {
-      "2021-02-07": 0
+      "2021-02-07": 32
     }
   },
   {

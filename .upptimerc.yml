@@ -16,8 +16,8 @@ status-website:
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Uptime
-  introTitle: "**レインボークエスト** で使用しているサーバの稼働時間モニターとステータスページであり、GitHubを利用しています。"
-  introMessage: "これは、**リアルタイム** データ であり [GitHub repository](https://github.com/upptime/upptime) からのリアルタイムデータを使用するステータスページです。サーバーは必要なく — GitHub Actions, Issues, and Pages - だけで構成されています。"
+  introTitle: "**レインボークエスト** で使用しているサーバの稼働時間とステータスページを表示しています。"
+  introMessage: "これは、**リアルタイム** データ であり [GitHub repository](https://github.com/IslandHQ/uptime) からのリアルタイムデータを使用するステータスページです。サーバーは必要なく — GitHub Actions, Issues, and Pages - だけで構成されています。"
   navbar:
     - title: Status
       href: /

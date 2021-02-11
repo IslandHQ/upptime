@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/mcs1.zo3.red",
     "slug": "vultr-mcs-1",
     "status": "down",
-    "uptime": "96.83%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "96.83%",
-    "uptimeMonth": "96.83%",
-    "uptimeYear": "96.83%",
+    "uptime": "88.62%",
+    "uptimeDay": "59.10%",
+    "uptimeWeek": "88.62%",
+    "uptimeMonth": "88.62%",
+    "uptimeYear": "88.62%",
     "time": 815,
     "timeDay": 1103,
     "timeWeek": 815,
     "timeMonth": 815,
     "timeYear": 815,
     "dailyMinutesDown": {
-      "2021-02-11": 0,
+      "2021-02-11": 589,
       "2021-02-08": 169,
       "2021-02-07": 32
     }
@@ -26,9 +26,9 @@
     "url": "https://mcs2.zo3.red",
     "icon": "https://favicons.githubusercontent.com/mcs2.zo3.red",
     "slug": "vultr-mcs-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -37,6 +37,8 @@
     "timeWeek": 560,
     "timeMonth": 560,
     "timeYear": 560,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-11": 0
+    }
   }
 ]

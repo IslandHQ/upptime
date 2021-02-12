@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/map.mcs1.zo3.red",
     "slug": "mcs-1-map",
     "status": "down",
-    "uptime": "0.75%",
-    "uptimeDay": "0.75%",
-    "uptimeWeek": "0.75%",
-    "uptimeMonth": "0.75%",
-    "uptimeYear": "0.75%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-11": 1
+      "2021-02-12": 1,
+      "2021-02-11": 105
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://favicons.githubusercontent.com/mcs1.stat.zo3.red",
     "slug": "mcs-1-stat",
     "status": "down",
-    "uptime": "67.46%",
-    "uptimeDay": "67.46%",
-    "uptimeWeek": "67.46%",
-    "uptimeMonth": "67.46%",
-    "uptimeYear": "67.46%",
+    "uptime": "0.48%",
+    "uptimeDay": "0.48%",
+    "uptimeWeek": "0.48%",
+    "uptimeMonth": "0.48%",
+    "uptimeYear": "0.48%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-11": 0
+      "2021-02-12": 1,
+      "2021-02-11": 104
     }
   }
 ]

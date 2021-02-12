@@ -5,9 +5,9 @@ repo: uptime # Your GitHub repository name
 # Add your sites here
 sites:
   - name: MCS1-map
-    url: https://map.mcs1.zo3.red
+    url: http://map.mcs1.zo3.red
   - name: MCS1-stat
-    url: https://mcs1.stat.zo3.red
+    url: http://stat.mcs1.zo3.red
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
